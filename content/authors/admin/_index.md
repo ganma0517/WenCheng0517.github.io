@@ -109,9 +109,9 @@ skills:
     color_border: '#f0bf23'
     items:
       - name: Research Journaling and Archival Work
-        description: camera
+        description: ''
         percent: 90
-        icon: 🗄️
+        icon: file
       - name: LEGO model building
         description: ''
         percent: 90
