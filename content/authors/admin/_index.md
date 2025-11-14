@@ -103,7 +103,7 @@ skills:
       - name: STATA
         description: ''
         percent: 90
-        icon: "custom/stata"
+        icon: chart-line
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -115,7 +115,7 @@ skills:
       - name: LEGO model building
         description: ''
         percent: 90
-        icon: puzzl
+        icon: camera
       - name: Travel and Cultural Exploration
         description: ''
         percent: 80
@@ -138,14 +138,14 @@ awards:
     url: https://neurips.cc/
     date: '2023-09-20'
     awarder: College of Social Sciences, NCCU
-    icon: "custom/nccu_ss"
+    icon: nccu_ss
     summary: 
       Awarded for outstanding achievement in doctoral dissertation research and writing.
   - title: Professor Chi Huang Research Scholarship
     url: https://politics.nccu.edu.tw/
     date: '2022-04-15'
     awarder: Department of Political Science, NCCU
-    icon: "custom/nccu_pp"
+    icon: nccu_pp
     summary: |
       Awarded to outstanding doctoral candidates in the field of empirical research for excellence in academic writing.
   - title: NSTC Doctoral Dissertation Fellowship in the Humanities and Social Sciences
