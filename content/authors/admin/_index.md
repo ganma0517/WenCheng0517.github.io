@@ -138,8 +138,8 @@ awards:
     url: https://neurips.cc/
     date: '2023-09-20'
     awarder: College of Social Sciences, NCCU
-    icon: "custom/nccu"
-    summary: |
+    icon: custom/nccu
+    summary: 
       Awarded for outstanding achievement in doctoral dissertation research and writing.
   - title: Professor Chi Huang Research Scholarship
     url: https://politics.nccu.edu.tw/
