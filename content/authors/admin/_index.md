@@ -95,15 +95,15 @@ skills:
       - name: Python
         description: ''
         percent: 85
-        icon: devicon/python
+        icon: ''
       - name: RStudio
         description: ''
         percent: 80
-        icon: devicon/rstudio
+        icon: ''
       - name: STATA
         description: ''
         percent: 90
-        icon: devicon/statamic
+        icon: ''
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -111,15 +111,15 @@ skills:
       - name: Research Journaling and Archival Work
         description: ''
         percent: 90
-        icon: file
+        icon: ''
       - name: LEGO model building
         description: ''
         percent: 90
-        icon: fa-puzzle-piece
+        icon: ''
       - name: Travel and Cultural Exploration
         description: ''
         percent: 80
-        icon: person-simple-walk
+        icon: ''
 
 languages:
   - name: English
